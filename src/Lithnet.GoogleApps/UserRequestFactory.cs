@@ -13,6 +13,8 @@ using System.Threading;
 using Google.Apis.Auth.OAuth2;
 using Google.Apis.Http;
 using Google.Apis.Services;
+using UserAlias = Lithnet.GoogleApps.ManagedObjects.UserAlias;
+using Lithnet.Logging;
 
 namespace Lithnet.GoogleApps
 {
@@ -70,6 +72,8 @@ namespace Lithnet.GoogleApps
 
                 do
                 {
+                    Logger.WriteLine($"Reading {request.MaxResults} user objects...");
+
                     request.PageToken = token;
 
                     UserList pageResults = request.ExecuteWithRetry(RetryEvents.Backoff | RetryEvents.Timeout);
@@ -85,6 +89,8 @@ namespace Lithnet.GoogleApps
                     }
 
                     token = pageResults.NextPageToken;
+
+                    //Thread.Sleep(1000);
 
                 } while (token != null);
             }

@@ -70,6 +70,14 @@ namespace Lithnet.GoogleApps
             return RateLimiter.buckets.GetOrAdd(serviceName, new TokenBucket(serviceName, 1500, new TimeSpan(0, 0, 100), 1500));
         }
 
+        // Added by SirDester
+        internal static TokenBucket GetBucket(string serviceName)
+        {
+            RateLimiter.buckets.TryGetValue(serviceName, out TokenBucket retValue);
+            return retValue;
+        }
+        // Added by SirDester
+
         private static void SetRateLimit(string serviceName, int requestsPerInterval, TimeSpan refillInterval)
         {
             RateLimiter.buckets.AddOrUpdate(serviceName, new TokenBucket(serviceName, requestsPerInterval, refillInterval, requestsPerInterval),
