@@ -162,31 +162,31 @@
   </ItemGroup>
   <ItemGroup>
     <Reference Include="BouncyCastle.Cryptography, Version=2.0.0.0, Culture=neutral, PublicKeyToken=072edcf4a5328938, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\BouncyCastle.Cryptography.2.2.1\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\BouncyCastle.Cryptography.2.3.0\lib\net461\BouncyCastle.Cryptography.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis, Version=1.66.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.1.66.0\lib\net462\Google.Apis.dll</HintPath>
+    <Reference Include="Google.Apis, Version=1.67.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.1.67.0\lib\net462\Google.Apis.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Admin.Directory.directory_v1, Version=1.66.0.3309, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Admin.Directory.directory_v1.1.66.0.3309\lib\net462\Google.Apis.Admin.Directory.directory_v1.dll</HintPath>
+    <Reference Include="Google.Apis.Admin.Directory.directory_v1, Version=1.67.0.3372, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Admin.Directory.directory_v1.1.67.0.3372\lib\net462\Google.Apis.Admin.Directory.directory_v1.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Auth, Version=1.66.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Auth.1.66.0\lib\net462\Google.Apis.Auth.dll</HintPath>
+    <Reference Include="Google.Apis.Auth, Version=1.67.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Auth.1.67.0\lib\net462\Google.Apis.Auth.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Calendar.v3, Version=1.66.0.3297, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Calendar.v3.1.66.0.3297\lib\net462\Google.Apis.Calendar.v3.dll</HintPath>
+    <Reference Include="Google.Apis.Calendar.v3, Version=1.67.0.3297, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Calendar.v3.1.67.0.3297\lib\net462\Google.Apis.Calendar.v3.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Classroom.v1, Version=1.66.0.3246, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Classroom.v1.1.66.0.3246\lib\net462\Google.Apis.Classroom.v1.dll</HintPath>
+    <Reference Include="Google.Apis.Classroom.v1, Version=1.67.0.3246, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Classroom.v1.1.67.0.3246\lib\net462\Google.Apis.Classroom.v1.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Core, Version=1.66.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Core.1.66.0\lib\net462\Google.Apis.Core.dll</HintPath>
+    <Reference Include="Google.Apis.Core, Version=1.67.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Core.1.67.0\lib\net462\Google.Apis.Core.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Gmail.v1, Version=1.66.0.3287, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Gmail.v1.1.66.0.3287\lib\net462\Google.Apis.Gmail.v1.dll</HintPath>
+    <Reference Include="Google.Apis.Gmail.v1, Version=1.67.0.3287, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Gmail.v1.1.67.0.3287\lib\net462\Google.Apis.Gmail.v1.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Groupssettings.v1, Version=1.66.0.2366, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Groupssettings.v1.1.66.0.2366\lib\net462\Google.Apis.Groupssettings.v1.dll</HintPath>
+    <Reference Include="Google.Apis.Groupssettings.v1, Version=1.67.0.2366, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Groupssettings.v1.1.67.0.2366\lib\net462\Google.Apis.Groupssettings.v1.dll</HintPath>
     </Reference>
     <Reference Include="Google.GData.Client, Version=2.2.0.0, Culture=neutral, PublicKeyToken=04a59ca9b0273830, processorArchitecture=MSIL">
       <HintPath>..\packages\Google.GData.Client.2.2.0.0\lib\Google.GData.Client.dll</HintPath>
@@ -200,8 +200,8 @@
     <Reference Include="Lithnet.Logging, Version=1.0.5774.20685, Culture=neutral, processorArchitecture=MSIL">
       <HintPath>..\..\..\v2.1.8060\Source code\src\packages\Lithnet.Logging.1.0.5774.20685\lib\net40\Lithnet.Logging.dll</HintPath>
     </Reference>
-    <Reference Include="log4net, Version=2.0.15.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
-      <HintPath>..\packages\log4net.2.0.15\lib\net45\log4net.dll</HintPath>
+    <Reference Include="log4net, Version=2.0.17.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\log4net.2.0.17\lib\net45\log4net.dll</HintPath>
     </Reference>
     <Reference Include="Newtonsoft.Json, Version=13.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
       <HintPath>..\..\..\v2.1.8060\Source code\src\packages\Newtonsoft.Json.13.0.3\lib\net45\Newtonsoft.Json.dll</HintPath>
