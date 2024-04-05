@@ -167,14 +167,14 @@
     <Reference Include="Google.Apis, Version=1.67.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
       <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.1.67.0\lib\net462\Google.Apis.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Admin.Directory.directory_v1, Version=1.67.0.3372, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Admin.Directory.directory_v1.1.67.0.3372\lib\net462\Google.Apis.Admin.Directory.directory_v1.dll</HintPath>
+    <Reference Include="Google.Apis.Admin.Directory.directory_v1, Version=1.67.0.3379, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Admin.Directory.directory_v1.1.67.0.3379\lib\net462\Google.Apis.Admin.Directory.directory_v1.dll</HintPath>
     </Reference>
     <Reference Include="Google.Apis.Auth, Version=1.67.0.0, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
       <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Auth.1.67.0\lib\net462\Google.Apis.Auth.dll</HintPath>
     </Reference>
-    <Reference Include="Google.Apis.Calendar.v3, Version=1.67.0.3297, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
-      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Calendar.v3.1.67.0.3297\lib\net462\Google.Apis.Calendar.v3.dll</HintPath>
+    <Reference Include="Google.Apis.Calendar.v3, Version=1.67.0.3374, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Calendar.v3.1.67.0.3374\lib\net462\Google.Apis.Calendar.v3.dll</HintPath>
     </Reference>
     <Reference Include="Google.Apis.Classroom.v1, Version=1.67.0.3246, Culture=neutral, PublicKeyToken=4b01fa6e34db77ab, processorArchitecture=MSIL">
       <HintPath>..\..\..\googleapps-managementagent\src\packages\Google.Apis.Classroom.v1.1.67.0.3246\lib\net462\Google.Apis.Classroom.v1.dll</HintPath>
@@ -198,7 +198,7 @@
       <HintPath>..\packages\Google.GData.Extensions.2.2.0.0\lib\Google.GData.Extensions.dll</HintPath>
     </Reference>
     <Reference Include="Lithnet.Logging, Version=1.0.5774.20685, Culture=neutral, processorArchitecture=MSIL">
-      <HintPath>..\..\..\v2.1.8060\Source code\src\packages\Lithnet.Logging.1.0.5774.20685\lib\net40\Lithnet.Logging.dll</HintPath>
+      <HintPath>..\..\..\googleapps-managementagent\src\packages\Lithnet.Logging.1.0.5774.20685\lib\net40\Lithnet.Logging.dll</HintPath>
     </Reference>
     <Reference Include="log4net, Version=2.0.17.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
       <HintPath>..\..\..\googleapps-managementagent\src\packages\log4net.2.0.17\lib\net45\log4net.dll</HintPath>
