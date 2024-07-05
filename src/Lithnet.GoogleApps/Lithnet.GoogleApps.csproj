@@ -33,13 +33,13 @@
 	<ItemGroup>
 		<PackageReference Include="BouncyCastle.Cryptography" Version="2.4.0" />
 		<PackageReference Include="Google.Apis" Version="1.68.0" />
-		<PackageReference Include="Google.Apis.Admin.Directory.directory_v1" Version="1.68.0.3435" />
+		<PackageReference Include="Google.Apis.Admin.Directory.directory_v1" Version="1.68.0.3456" />
 		<PackageReference Include="Google.Apis.Auth" Version="1.68.0" />
 		<PackageReference Include="Google.Apis.Calendar.v3" Version="1.68.0.3430" />
-		<PackageReference Include="Google.Apis.Classroom.v1" Version="1.68.0.3246" />
+		<PackageReference Include="Google.Apis.Classroom.v1" Version="1.68.0.3455" />
 		<PackageReference Include="Google.Apis.Core" Version="1.68.0" />
 		<PackageReference Include="Google.Apis.Gmail.v1" Version="1.68.0.3427" />
-		<PackageReference Include="Google.Apis.Groupssettings.v1" Version="1.68.0.2366" />
+		<PackageReference Include="Google.Apis.Groupssettings.v1" Version="1.68.0.2721" />
 		<PackageReference Include="Google.GData.Client" Version="2.2.0.0" />
 		<PackageReference Include="Google.GData.Contacts" Version="2.2.0.0" />
 		<PackageReference Include="Google.GData.Extensions" Version="2.2.0.0" />
